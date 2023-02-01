@@ -1,10 +1,25 @@
-        body {
-            background-color: #EAF6F6;
-        }
+    /* 
+    selector {
+        property:value;
+    }
+    */
+    
+    body {
+        background-color: #EAF6F6;
+    }
 
-        hr {
-            width: 5%;
-            border-style: dotted none none;
-            border-color: grey;
-            border-width: 5px;
-        }
+    hr {
+        width: 5%;
+        border-style: dotted none none;
+        border-color: grey;
+        border-width: 5px;
+    }
+
+    h1{
+        color: #66BFBF;
+    }
+
+    h3{
+        text-align: left;
+        color: #66BFBF;
+    }
